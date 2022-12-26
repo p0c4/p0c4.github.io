@@ -9,7 +9,7 @@ h1 {
     color: #DF7861;
     font-size: 5.625rem;
     font-family: 'Great Vibes', cursive;
-    margin: 50px auto 0 auto;
+    margin: 40px auto 0 auto;
     
 }
 
@@ -49,7 +49,7 @@ p {
 #top-container {
     background-color: #E6E7E5;
     position: relative;
-    padding-top: 50px;
+    padding-top: 30px;
 }
 
 #middle-container {
@@ -88,7 +88,7 @@ p {
 }
 
 .mountain {
-    height: 500px;
+    width: 45%;
 }
 
 .skill-row {
@@ -146,7 +146,7 @@ p {
 }
 
 .intro {
-    width: 750px;
+    width: 80%;
     margin: auto;
 }
 
